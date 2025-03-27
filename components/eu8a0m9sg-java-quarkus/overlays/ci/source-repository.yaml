@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: eu8a0m9sg-java-quarkus-repository
+spec:
+  url: https://github.com/tnevrlka-rhtap/eu8a0m9sg-java-quarkus
